@@ -1,0 +1,189 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\css\\_AuthStyle.css",
+      "PackagePath": "staticwebassets\\css\\_AuthStyle.css"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\files\\Images\\58a5637c-f5d4-4b4c-a797-c5735f91c1d9Mohamed.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\58a5637c-f5d4-4b4c-a797-c5735f91c1d9Mohamed.jpg"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\files\\Images\\5f37edf5-4073-4bb3-952d-35dfdbf8432dphoto_2022-12-02_14-19-39.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\5f37edf5-4073-4bb3-952d-35dfdbf8432dphoto_2022-12-02_14-19-39.jpg"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\files\\Images\\66ded5e7-2389-4e4d-a5d0-491ef7b9ca46Screenshot 2024-10-12 173202.png",
+      "PackagePath": "staticwebassets\\files\\Images\\66ded5e7-2389-4e4d-a5d0-491ef7b9ca46Screenshot 2024-10-12 173202.png"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\files\\Images\\6edb0b9d-99da-4340-a1bc-7d30ae7c78fcMohamed.jpg",
+      "PackagePath": "staticwebassets\\files\\Images\\6edb0b9d-99da-4340-a1bc-7d30ae7c78fcMohamed.jpg"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\files\\Images\\fd7bb4a7-d757-4edc-9f6a-9e131fb97948_39393c02-d5ee-49e7-8831-090e5dbab772.jpeg",
+      "PackagePath": "staticwebassets\\files\\Images\\fd7bb4a7-d757-4edc-9f6a-9e131fb97948_39393c02-d5ee-49e7-8831-090e5dbab772.jpeg"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CompanyG02.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CompanyG02.PL.props",
+      "PackagePath": "build\\CompanyG02.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CompanyG02.PL.props",
+      "PackagePath": "buildMultiTargeting\\CompanyG02.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CompanyG02.PL.props",
+      "PackagePath": "buildTransitive\\CompanyG02.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

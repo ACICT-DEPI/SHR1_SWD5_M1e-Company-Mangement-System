@@ -1,0 +1,1291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\controllers\\myservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\controllers\\myservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\repositories\\myservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\repositories\\myservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\repositories\\unitofwok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\repositories\\unitofwok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\interfaces\\iunitofwok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\interfaces\\iunitofwok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\models\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\models\\myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\mapperprofiles\\myserviceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\mapperprofiles\\myserviceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\mapperprofiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\mapperprofiles\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\mapperprofiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\mapperprofiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\interfaces\\imyservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\interfaces\\imyservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\mapperprofiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\mapperprofiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\helper\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\helper\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\helper\\documentsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\helper\\documentsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\repositories\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\mocks\\mockdepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\mocks\\mockdepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.bll\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C987-AC2E-4B86-8EC5-53467263208F}|CompanyG02.BLL\\CompanyG02.BLL.csproj|solutionrelative:companyg02.bll\\interfaces\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\viewmodels\\projectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\viewmodels\\projectsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\viewmodels\\myserviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\viewmodels\\myserviceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\myservice\\partialviews\\_createeditpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\myservice\\partialviews\\_createeditpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\myservice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\myservice\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\myservice\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\myservice\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\myservice\\partialviews\\_deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\myservice\\partialviews\\_deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\mapperprofiles\\projectsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\mapperprofiles\\projectsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\project\\partialviews\\_createeditpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\project\\partialviews\\_createeditpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\myservice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\myservice\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\myservice\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\myservice\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\myservice\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\myservice\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\project\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\project\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\project\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\project\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\migrations\\20241010153811_neww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\migrations\\20241010153811_neww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\migrations\\companydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\migrations\\companydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\project\\partialviews\\_deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\project\\partialviews\\_deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\employee\\partialviews\\_createeditpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\employee\\partialviews\\_createeditpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.pl\\views\\employee\\partialviews\\_deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53022B95-C80F-49FD-BE2A-4C97DE50FD15}|CompanyG02.PL\\CompanyG02.PL.csproj|solutionrelative:companyg02.pl\\views\\employee\\partialviews\\_deletedetailspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\migrations\\20241010191207_myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\migrations\\20241010191207_myservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\migrations\\20241010195300_anything0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\migrations\\20241010195300_anything0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\migrations\\20241010194425_anything.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\migrations\\20241010194425_anything.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\migrations\\20241010203828_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\migrations\\20241010203828_test2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\migrations\\20241011194122_myservicess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\migrations\\20241011194122_myservicess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|e:\\career\\route diploma\\asp.net c40\\assignments\\7. asp.net core mvc\\companyg02.pl\\companyg02.dal\\migrations\\20241012185548_myservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{880003F3-C0D5-4026-9ED5-CE6DE4A8DE92}|CompanyG02.DAL\\CompanyG02.DAL.csproj|solutionrelative:companyg02.dal\\migrations\\20241012185548_myservice2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyServiceController.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\MyServiceController.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Controllers\\MyServiceController.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\MyServiceController.cs",
+              "RelativeToolTip": "CompanyG02.PL\\Controllers\\MyServiceController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAwEYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:59:13.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWok.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IUnitOfWok.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Interfaces\\IUnitOfWok.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IUnitOfWok.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Interfaces\\IUnitOfWok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:42:32.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Models\\Employee.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\Employee.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Models\\Employee.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:14:50.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "CompanyG02.PL\\ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:46:48.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T17:48:29.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T18:39:40.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyServiceRepository.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\MyServiceRepository.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Repositories\\MyServiceRepository.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\MyServiceRepository.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Repositories\\MyServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:46:03.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "CompanyG02.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:13:48.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:16:24.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:09:17.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:08:46.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyServiceProfile.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\MapperProfiles\\MyServiceProfile.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\MapperProfiles\\MyServiceProfile.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\MapperProfiles\\MyServiceProfile.cs",
+              "RelativeToolTip": "CompanyG02.PL\\MapperProfiles\\MyServiceProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:18:21.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CompanyG02.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAiwJIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:02:42.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Models\\Project.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\Project.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Models\\Project.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:25:57.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitOfWok.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\UnitOfWok.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Repositories\\UnitOfWok.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\UnitOfWok.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Repositories\\UnitOfWok.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:00:49.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\MapperProfiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\MapperProfiles\\UserProfile.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\MapperProfiles\\UserProfile.cs",
+              "RelativeToolTip": "CompanyG02.PL\\MapperProfiles\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:02:26.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20241012185548_MyService2.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241012185548_MyService2.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Migrations\\20241012185548_MyService2.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241012185548_MyService2.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Migrations\\20241012185548_MyService2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:55:48.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IMyServiceRepository.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IMyServiceRepository.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Interfaces\\IMyServiceRepository.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IMyServiceRepository.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Interfaces\\IMyServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:40:39.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Program.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Program.cs",
+              "RelativeToolTip": "CompanyG02.PL\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:10:21.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\MapperProfiles\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\MapperProfiles\\DepartmentProfile.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\MapperProfiles\\DepartmentProfile.cs",
+              "RelativeToolTip": "CompanyG02.PL\\MapperProfiles\\DepartmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:23:35.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\MapperProfiles\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\MapperProfiles\\EmployeeProfile.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\MapperProfiles\\EmployeeProfile.cs",
+              "RelativeToolTip": "CompanyG02.PL\\MapperProfiles\\EmployeeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:23:41.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyService.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\MyService.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Models\\MyService.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\MyService.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Models\\MyService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:14:18.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:43:18.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\ViewModels\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\ViewModels\\RoleViewModel.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\ViewModels\\RoleViewModel.cs",
+              "RelativeToolTip": "CompanyG02.PL\\ViewModels\\RoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:39:52.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:39:13.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:43:10.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Controllers\\ProjectController.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "CompanyG02.PL\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T18:25:45.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DocumentSetting.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Helper\\DocumentSetting.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Helper\\DocumentSetting.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Helper\\DocumentSetting.cs",
+              "RelativeToolTip": "CompanyG02.PL\\Helper\\DocumentSetting.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:04:57.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EmailSetting.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Helper\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Helper\\EmailSetting.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Helper\\EmailSetting.cs",
+              "RelativeToolTip": "CompanyG02.PL\\Helper\\EmailSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:03:43.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "CompanyG02.PL\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:59:03.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:44:10.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Repositories\\ProjectRepository.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\ProjectRepository.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Repositories\\ProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:45:41.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MockDepartmentRepository.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Mocks\\MockDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Mocks\\MockDepartmentRepository.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Mocks\\MockDepartmentRepository.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Mocks\\MockDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:28:41.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:05:51.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Contexts\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Contexts\\CompanyDbContext.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Contexts\\CompanyDbContext.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Contexts\\CompanyDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:16:08.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Interfaces\\IProjectRepository.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Interfaces\\IProjectRepository.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Interfaces\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:40:06.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CompanyG02.BLL\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.BLL\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "CompanyG02.BLL\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:06:03.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\appsettings.json",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\appsettings.json",
+              "RelativeToolTip": "CompanyG02.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T18:16:51.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:25:38.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Models\\Department.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\Department.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:25:36.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Email.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Models\\Email.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Models\\Email.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Models\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T20:25:35.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProjectsViewModel.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\ViewModels\\ProjectsViewModel.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\ViewModels\\ProjectsViewModel.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\ViewModels\\ProjectsViewModel.cs",
+              "RelativeToolTip": "CompanyG02.PL\\ViewModels\\ProjectsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:56:33.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MyServiceViewModel.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\ViewModels\\MyServiceViewModel.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\ViewModels\\MyServiceViewModel.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\ViewModels\\MyServiceViewModel.cs",
+              "RelativeToolTip": "CompanyG02.PL\\ViewModels\\MyServiceViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:58:16.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CompanyG02.PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:19:43.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20241011194122_MyServicess.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241011194122_MyServicess.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Migrations\\20241011194122_MyServicess.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241011194122_MyServicess.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Migrations\\20241011194122_MyServicess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:41:23.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_CreateEditPartialView.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\PartialViews\\_CreateEditPartialView.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\MyService\\PartialViews\\_CreateEditPartialView.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\PartialViews\\_CreateEditPartialView.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\MyService\\PartialViews\\_CreateEditPartialView.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:47:29.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\Create.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\MyService\\Create.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\Create.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\MyService\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:52:02.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\MyService\\Delete.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\Delete.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\MyService\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:53:01.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_DeleteDetailsPartialView.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\MyService\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\MyService\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:50:00.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProjectsProfile.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\MapperProfiles\\ProjectsProfile.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\MapperProfiles\\ProjectsProfile.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\MapperProfiles\\ProjectsProfile.cs",
+              "RelativeToolTip": "CompanyG02.PL\\MapperProfiles\\ProjectsProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:18:00.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20241010203828_test2.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241010203828_test2.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Migrations\\20241010203828_test2.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241010203828_test2.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Migrations\\20241010203828_test2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:38:28.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Project\\Create.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Project\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:51:45.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_CreateEditPartialView.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\PartialViews\\_CreateEditPartialView.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Project\\PartialViews\\_CreateEditPartialView.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\PartialViews\\_CreateEditPartialView.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Project\\PartialViews\\_CreateEditPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:44:34.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\Index.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\MyService\\Index.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\Index.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\MyService\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:54:32.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\MyService\\Edit.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\Edit.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\MyService\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:54:11.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\Details.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\MyService\\Details.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\MyService\\Details.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\MyService\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:53:52.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\Details.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Project\\Details.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\Details.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Project\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:55:14.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Project\\Delete.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\Delete.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Project\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:52:18.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20241010153811_Neww.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241010153811_Neww.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Migrations\\20241010153811_Neww.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241010153811_Neww.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Migrations\\20241010153811_Neww.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:38:11.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20241010195300_anything0.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241010195300_anything0.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Migrations\\20241010195300_anything0.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241010195300_anything0.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Migrations\\20241010195300_anything0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:53:00.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20241010194425_anything.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241010194425_anything.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Migrations\\20241010194425_anything.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241010194425_anything.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Migrations\\20241010194425_anything.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:44:25.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T19:16:23.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Department\\Create.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T19:16:20.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Department\\Details.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Department\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T19:16:11.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CompanyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:32:42.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20241010191207_MyService.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241010191207_MyService.cs",
+              "RelativeDocumentMoniker": "CompanyG02.DAL\\Migrations\\20241010191207_MyService.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.DAL\\Migrations\\20241010191207_MyService.cs",
+              "RelativeToolTip": "CompanyG02.DAL\\Migrations\\20241010191207_MyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:12:07.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CompanyG02.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:18:05.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Project\\Edit.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\Edit.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Project\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:55:26.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Project\\Index.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAewEAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:55:37.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_DeleteDetailsPartialView.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Project\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Project\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Project\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:51:17.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:16:49.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:16:43.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:24:27.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Department\\Index.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:24:45.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:17:17.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Controllers\\RoleController.cs",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "CompanyG02.PL\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:03:40.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "_CreateEditPartialView.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Employee\\PartialViews\\_CreateEditPartialView.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Employee\\PartialViews\\_CreateEditPartialView.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Employee\\PartialViews\\_CreateEditPartialView.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Employee\\PartialViews\\_CreateEditPartialView.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:00:11.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:49:56.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_DeleteDetailsPartialView.cshtml",
+              "DocumentMoniker": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Employee\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "RelativeDocumentMoniker": "CompanyG02.PL\\Views\\Employee\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "ToolTip": "E:\\career\\Route Diploma\\ASP.NET C40\\Assignments\\7. ASP.NET Core MVC\\CompanyG02.PL\\CompanyG02.PL\\Views\\Employee\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "RelativeToolTip": "CompanyG02.PL\\Views\\Employee\\PartialViews\\_DeleteDetailsPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:48:03.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

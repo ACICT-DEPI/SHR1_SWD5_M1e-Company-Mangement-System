@@ -1,0 +1,1 @@
+# CompanyG02.PL
